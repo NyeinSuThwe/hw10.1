@@ -38,6 +38,60 @@ html, body {
   box-sizing: border-box;
 }
 
+.display-row {
+  padding: 16px;
+}
+
+.block {
+  display: block;
+  background: #ffe8cc;
+  margin: 8px 0;
+  padding: 8px 12px;
+  border: 1px dashed #cc7a00;
+}
+.display-row {
+  padding: 16px;
+}
+
+.block {
+  display: block;
+  background: #ffe8cc;
+  margin: 8px 0;
+  padding: 8px 12px;
+  border: 1px dashed #cc7a00;
+}
+
+.inline {
+  display: inline;
+  background: #e3ffe3;
+  padding: 4px 8px;
+  border: 1px dashed #179300;
+}
+
+.inline-block {
+  display: inline-block;
+  background: #f0e3ff;
+  padding: 8px 12px;
+  border: 1px dashed #6b21a8;
+  margin: 4px;
+}
+
+
+.inline {
+  display: inline;
+  background: #e3ffe3;
+  padding: 4px 8px;
+  border: 1px dashed #179300;
+}
+
+.inline-block {
+  display: inline-block;
+  background: #f0e3ff;
+  padding: 8px 12px;
+  border: 1px dashed #6b21a8;
+  margin: 4px;
+}
+
 
 
 html {
