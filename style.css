@@ -148,6 +148,15 @@ html {
   margin: 50px auto;
 
 }
+a {
+  color: #2b6cb0;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 
 p{
   width: 100px;
